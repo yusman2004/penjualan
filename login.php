@@ -16,7 +16,7 @@ if(!isset($_SESSION['login'])){
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Login - Van Java Comp</title>
+        <title>Login - Yusman Telaumbanua</title>
         <link href="css/styles.css" rel="stylesheet" />
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
     </head>
@@ -59,7 +59,7 @@ if(!isset($_SESSION['login'])){
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; Daffa Vignaditya 2022</div>
+                            <div class="text-muted">Copyright &copy; Yusman_Telaumbanua2024</div>
                         </div>
                     </div>
                 </footer>

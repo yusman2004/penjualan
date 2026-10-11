@@ -23,7 +23,7 @@ if(isset($_GET['idp'])){
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Detail Pesanan - Van Java Comp</title>
+        <title>Detail Pesanan - Yusman Telaumbanua</title>
         <link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" />
         <link href="css/styles.css" rel="stylesheet" />
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
@@ -31,7 +31,7 @@ if(isset($_GET['idp'])){
     <body class="sb-nav-fixed">
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
             <!-- Navbar Brand-->
-            <a class="navbar-brand ps-3" href="index.php">Van Java Comp</a>
+            <a class="navbar-brand ps-3" href="index.php">Yusman Telaumbanua</a>
             <!-- Sidebar Toggle-->
             <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
             
@@ -66,7 +66,7 @@ if(isset($_GET['idp'])){
                     </div>
                     <div class="sb-sidenav-footer">
                         <div class="small">Logged in as:</div>
-                        Admin
+                        Admin_Yusman
                     </div>
                 </nav>
             </div>
@@ -76,7 +76,7 @@ if(isset($_GET['idp'])){
                         <h1 class="mt-4">Nama Pelanggan : <?=$namapel;?></h1>
                         <h4 class="mt-4">ID Pesanan : <?=$idp;?></h4>
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item active">Selamat datang di website penjualan Van Java Comp</li>
+                            <li class="breadcrumb-item active">Selamat datang di website penjualan Yusman Telaumbanua</li>
                         </ol>
                         
 
@@ -225,7 +225,7 @@ if(isset($_GET['idp'])){
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; Daffa Vignaditya 2022</div>
+                            <div class="text-muted">Copyright &copy; Yusman_Telaumbanua2024</div>
                         </div>
                     </div>
                 </footer>
